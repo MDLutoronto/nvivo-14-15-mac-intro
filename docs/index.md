@@ -1,5 +1,5 @@
 ---
-title: Introduction to NVivo 14/15 for Mac | Map and Data Library
+title: Introduction to NVivo 14/15 for Mac 
 layout: home
 description: This is a beginner level tutorial for NVivo 14 or 15 for Mac (the versions are almost identical). The goal of this tutorial is to learn about the basic features in NVivo that will allow you to organize and analyze qualitative data. Part 1 will go over the basics of navigating the NVivo interface, importing data, and coding with codes. Part 2 will explore the different types of queries you can run in NVivo. If you already have a grasp of the basics and are just interested in learning about queries, you can jump right to Part 2.
 staff:
@@ -10,7 +10,7 @@ maintainer:
    link: https://library.utoronto.ca/staff/kelly-schultz
 ---
 
-# Introduction to NVivo 14/15 for Mac | Map and Data Library
+# Introduction to NVivo 14/15 for Mac
 
 This is a beginner level tutorial for NVivo 14 or 15 for Mac (the versions are almost identical). The goal of this tutorial is to learn about the basic features in NVivo that will allow you to organize and analyze qualitative data. Part 1 will go over the basics of navigating the NVivo interface, importing data, and coding with codes. Part 2 will explore the different types of queries you can run in NVivo. If you already have a grasp of the basics and are just interested in learning about queries, you can jump right to Part 2\.
 
@@ -825,5 +825,5 @@ Test Your Understanding 3:
 * [Back to the next section.](#export-data)
 
  
-
+**Technique**: [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) | **Tools**: [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo)   
 **Date Created:** 2023\-11\-20 **Updated:** 2026\-02\-06
