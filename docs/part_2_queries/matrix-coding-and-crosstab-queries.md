@@ -92,6 +92,6 @@ Run a Matrix Coding query on social media content only, where the columns are th
 
 Next run a Crosstab query, where the rows are the top\-level codes (Balance, Economy, etc) and the Person attribute is Education Level. What code was coded the most by coding references for people whose highest level of education completed is undergraduate college?
 
-Click [here](/nvivo-14-15-mac-intro/part_2_queries/test-your-understanding-answers/) for the answers.
+Click [here](https://mdlutoronto.github.io/nvivo-14-15-mac-intro/part_2_queries/test-your-understanding-answers/) for the answers.
 
 **Technique**: [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tools**: [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo)   
