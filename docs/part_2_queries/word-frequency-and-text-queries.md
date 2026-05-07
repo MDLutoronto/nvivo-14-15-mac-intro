@@ -172,7 +172,7 @@ Using the Query menu run a Word Frequency query for the project to find the top 
 
 Next run a Text query for the project to find the phrase “climate change” in all project items. How many project items were in the results?
 
-Click [here](/nvivo-14-15-mac-intro/part_2_queries/test-your-understanding-answers/) for the answers.
+Click [here](https://mdlutoronto.github.io/nvivo-14-15-mac-intro/part_2_queries/test-your-understanding-answers/) for the answers.
 
 **Technique**: [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tools**: [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo)   
 
