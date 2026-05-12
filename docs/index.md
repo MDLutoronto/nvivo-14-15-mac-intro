@@ -10,7 +10,7 @@ maintainer:
     - name: Kelly Schultz
       link: https://library.utoronto.ca/staff/kelly-schultz
 nav_order: 0 
-has_children: true 
+has_children: false 
 has_toc: false 
 ---
 

@@ -7,7 +7,6 @@ maintainer:
     - name: Kelly Schultz
       link: https://library.utoronto.ca/staff/kelly-schultz
 title: Resources to Learn More
-parent: Introduction to NVivo 14/15 for Mac
 nav_order: 3
 layout: default
 

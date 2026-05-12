@@ -7,11 +7,10 @@ maintainer:
     - name: Kelly Schultz
       link: https://library.utoronto.ca/staff/kelly-schultz
 title: Part 2 - Queries
-parent: Introduction to NVivo 14/15 for Mac
 nav_order: 2 
 layout: default
 has_children: true 
-has_toc: true
+has_toc: false
 ---
 
 Part 2 \- Queries
