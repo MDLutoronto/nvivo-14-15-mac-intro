@@ -9,8 +9,9 @@ maintainer:
 title: Part 2 - Queries
 nav_order: 2 
 layout: default
-has_children: true 
 has_toc: false
+has_children: true
+parent: Introduction to NVivo 14/15 for Mac 
 ---
 
 Part 2 \- Queries
