@@ -10,6 +10,7 @@ title: Test your Understanding Answers
 parent: Part 2 - Queries
 nav_order: 5
 layout: default
+grand_parent: Introduction to NVivo 14/15 for Mac 
 ---
 Test your Understanding Answers
 -------------------------------

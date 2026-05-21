@@ -10,6 +10,7 @@ title: Import Data
 parent: Part 1 - The Basics
 nav_order: 3
 layout: default
+grand_parent: Introduction to NVivo 14/15 for Mac 
 ---
 
 Import Data

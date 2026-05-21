@@ -10,6 +10,7 @@ title: Export Data
 parent: Part 2 - Queries
 nav_order: 4
 layout: default
+grand_parent: Introduction to NVivo 14/15 for Mac 
 ---
 Export Data
 -----------

@@ -10,8 +10,8 @@ maintainer:
     - name: Kelly Schultz
       link: https://library.utoronto.ca/staff/kelly-schultz
 nav_order: 0 
-has_children: false 
 has_toc: false 
+has_children: true
 ---
 
 # Introduction to NVivo 14/15 for Mac

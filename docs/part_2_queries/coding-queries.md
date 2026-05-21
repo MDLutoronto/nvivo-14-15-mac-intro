@@ -10,6 +10,7 @@ title: Coding Queries
 parent: Part 2 - Queries
 nav_order: 2
 layout: default
+grand_parent: Introduction to NVivo 14/15 for Mac 
 ---
 Coding Queries
 --------------
