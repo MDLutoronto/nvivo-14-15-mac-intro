@@ -10,7 +10,7 @@ title: Working with Codes
 parent: Part 1 - The Basics
 nav_order: 5
 layout: default
-grand_parent: Introduction to NVivo 14/15 for Mac 
+grand_parent: Introduction to NVivo 15 for Mac 
 ---
 Working with Codes
 ------------------

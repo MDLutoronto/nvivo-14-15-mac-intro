@@ -10,13 +10,13 @@ title: Creating a New Project
 parent: Part 1 - The Basics
 nav_order: 1
 layout: default
-grand_parent: Introduction to NVivo 14/15 for Mac 
+grand_parent: Introduction to NVivo 15 for Mac 
 ---
 
 Creating a New Project
 ----------------------
 
-1. First start up NVivo 14 or 15\.
+1. First start up NVivo 15\.
 
 2. From the main screen, you will see that there are sample projects you can explore to get a feel for NVivo. We will look at one of these later. There are also several links to training and tutorials to learn more. But for us, let’s click on **Create new project** to get started.
 
