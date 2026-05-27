@@ -10,7 +10,7 @@ title: Word Frequency and Text Queries
 parent: Part 2 - Queries
 nav_order: 1
 layout: default
-grand_parent: Introduction to NVivo 14/15 for Mac 
+grand_parent: Introduction to NVivo 15 for Mac 
 ---
 Word Frequency and Text Queries
 -------------------------------
@@ -19,7 +19,7 @@ Word Frequency and Text Queries
 
 2. Then from the **File Menu or start screen, select Create Copy of Sample Project** to use a ready\-made project that comes with NVivo. Data in this sample project are drawn from a two\-year research study (2008\- 2009\) undertaken by researchers from the Duke University Nicholas School of the Environment at the Duke Marine Laboratory in Beaufort, N.C. The study documented community perceptions of development and land\-use change on coastal communities in the Down East area of Carteret County, North Carolina, USA.
 
-    <img src="{{ '/assets/images/NVivo15_Mac_intro_pt2_001.png' | relative_url }}" alt='The NVivo 14 main screen with Create a copy of the sample project highlighted.' title='' width='1576' height='974' />
+    <img src="{{ '/assets/images/NVivo15_Mac_intro_pt2_001.png' | relative_url }}" alt='The NVivo 15 main screen with Create a copy of the sample project highlighted.' title='' width='1576' height='974' />
 
 3. A window will pop\-up asking if you want to rename the project and if you want to adjust where it saves. Let’s keep the name, but make sure it is saving with your other workshop files. **Then click on Save**. If an NVivo Tour window opens up, just close it for now. If an NVivo Tour window opens, close it by clicking **Skip Tour**.
 

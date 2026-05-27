@@ -9,7 +9,7 @@ maintainer:
 title: Resources to Learn More
 nav_order: 3
 layout: default
-parent: Introduction to NVivo 14/15 for Mac 
+parent: Introduction to NVivo 15 for Mac 
 ---
 Resources to Learn More
 -----------------------
