@@ -52,12 +52,12 @@ Next, let’s import some data so we can start using the tool. We will be using 
 
     <img src="{{ '/assets/images/NVivo15_Mac_intro_018.png' | relative_url }}" alt='Import Documents window at the DCEE Focus Groups and Interviews folder, all NYC Data Center files highlighted and selected. Red box around the Import button.' title='' width='1758' height='1176' />
 
-9. These files are now all copied into your project file. You can see from the Import menu that there are many different file types that can be imported. For example, you can connect to reference managers to pull in your data (found under the bibliography tab), or from the Files option, you can import in audio files, images, or videos. We won’t be covering them all in this tutorial, but be sure to explore your options later.
+9. These files are now all copied into your project file. You can see from the Import menu that there are many different file types that can be imported. For example, you can connect to reference managers to pull in your data (found under the Bibliography option), or from the Files option, you can import in audio files, images, or videos. We won’t be covering them all in this tutorial, but be sure to explore your options later.
 
-    **Note:** Files, Classifications, Bibliography, and Notes all have drop down menus with additional import types.
+    **Note:** Files, Classifications, Bibliography, and Notes all have drop-down menus with additional import types.
 
     <img src="{{ '/assets/images/NVivo15_Mac_intro_019.png' | relative_url }}" alt='Red box outlining the options under the Data menu.' title='' width='1746' height='230' />
 
-    Note: If you’re interested in learning more about importing other common data sources into NVivo, check out our [tutorial on importing webpages as PDFs and survey data](https://mdlutoronto.github.io/nvivo-14-15-mac-importing-alternative-sources/)!  
+    Note: If you’re interested in learning more about importing other common data sources into NVivo, check out our [tutorial on importing survey data](https://mdlutoronto.github.io/nvivo-14-15-mac-importing-alternative-sources/)!  
 
 **Technique**: [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tools**: [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo) 

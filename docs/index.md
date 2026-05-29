@@ -1,7 +1,7 @@
 ---
 title: Introduction to NVivo 15 for Mac 
 layout: home
-description: This is a beginner level tutorial for NVivo 15 for Mac. The goal of this tutorial is to learn about the basic features in NVivo that will allow you to organize and analyze qualitative data. Part 1 will go over the basics of navigating the NVivo interface, importing data, and coding with codes. Part 2 will explore the different types of queries you can run in NVivo. If you already have a grasp of the basics and are just interested in learning about queries, you can jump right to Part 2.
+description: This is a beginner level tutorial for NVivo 15 for Mac. The goal of this tutorial is to learn about the basic features in NVivo that will allow you to organize and analyze qualitative data. Part 1 will go over the basics of navigating the NVivo interface, importing data, coding, note taking, and cases. Part 2 will explore the different types of queries you can run in NVivo and exporting your work. If you already have a grasp of the basics and are just interested in learning about more advanced topics, such as queries, you can jump right to Part 2.
 created_date: 2023-11-20
 staff:
     - name: Kelly Schultz
@@ -16,9 +16,7 @@ has_children: true
 
 # Introduction to NVivo 15 for Mac
 
-This is a beginner level tutorial for NVivo 15 for Mac. The goal of this tutorial is to learn about the basic features in NVivo that will allow you to organize and analyze qualitative data. Part 1 will go over the basics of navigating the NVivo interface, importing data, and coding with codes. Part 2 will explore the different types of queries you can run in NVivo. If you already have a grasp of the basics and are just interested in learning about queries, you can jump right to Part 2\.
-
- 
+This is a beginner level tutorial for NVivo 15 for Mac. The goal of this tutorial is to learn about the basic features in NVivo that will allow you to organize and analyze qualitative data. Part 1 will go over the basics of navigating the NVivo interface, importing data, coding, note taking, and cases. Part 2 will explore the different types of queries you can run in NVivo and exporting your work. If you already have a grasp of the basics and are just interested in learning about more advanced topics, such as queries, you can jump right to Part 2.
 
 Before you begin, make sure you have NVivo 15 installed. If you don’t, [follow these instructions to request a free license key and install the software](https://mdlutoronto.github.io/nvivo-15-mac-install-license/).
 

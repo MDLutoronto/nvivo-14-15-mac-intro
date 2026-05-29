@@ -17,17 +17,17 @@ Creating Codes and Coding
 
 One of the main tasks NVivo is used for is coding. NVivo has a Coding section from the left menu, with a folder called Codes. These codes act like containers to hold all the references to that code.
 
-If you have already decided upon codes ahead of time (following a deductive approach to coding), you can add these codes to NVivo and then start using them. Other times, as mentioned, you will be reading your materials in NVivo and creating codes as you go (an inductive approach to coding). And sometimes you will do a combination of this, where you have a rough idea of some codes you expect to see, but then new codes might emerge for you as your read through the materials. For this example, let’s try this combo method. First, we will create a few codes that we will use to code our materials, and then I will show you how to create codes on the fly as you are reading.
+If you have already decided upon codes ahead of time (following a deductive approach to coding), you can add these codes to NVivo and then start using them. Other times, you will be reading your materials in NVivo and creating codes as you go (an inductive approach to coding). And sometimes you will do a combination of this. For this example, first, we will create a few codes that we will use to code our materials, and then I will show you how to create codes on the fly as you are reading.
 
 1. From the left menu, under **Coding, select Codes**. Then go to the **Create menu**,and from the **Code drop\-down menu, select New Code** to create a new code.
 
     <img src="{{ '/assets/images/NVivo15_Mac_intro_020.png' | relative_url }}" alt='Under the Coding menu on the left, select Codes. Under the top menu select create, code and new code. ' title='' width='2014' height='1182' />
 
-2. For the code name **call it “Budget”**. You can add a description for your codes if you like. You can describe them in more detail and give examples of where it would be applied to understand how to use it in coding. We will just leave it blank for now. Ignore the “Aggregate coding from children” option for now. We will discuss it later. **Select Done**.
+2. For the code name **call it “Budget”**. You can also add a description for your codes. You can describe them in more detail and give examples of where it would be applied to understand how to use it in coding. We will just leave it blank for now, but it is best practice to always have a description. Ignore the “Aggregate coding from children” option for now. We will discuss it later. **Select Done**.
 
     <img src="{{ '/assets/images/NVivo15_Mac_intro_021.png' | relative_url }}" alt='In the code properties pop-up, Budget is the title and done is selected ' title='' width='2428' height='1122' />
 
-3. You should now see our new Budget code listed in the Coding folder.
+3. You should now see our new Budget code listed in the Codes folder.
 
     <img src="{{ '/assets/images/NVivo15_Mac_intro_022.png' | relative_url }}" alt='Under Codes is a code labelled budget.' title='' width='2278' height='966' />
 
@@ -61,7 +61,7 @@ If you have already decided upon codes ahead of time (following a deductive appr
 
     <img src="{{ '/assets/images/NVivo15_Mac_intro_029.png' | relative_url }}" alt='New code window with the budget node selected' title='' width='1720' height='946' />
 
-    Note: Generally, you want the text to match the code, but for now, don’t worry if the text doesn’t match, this is just to quickly show you how it works.
+    Note: Generally, you want the text content to correspond with the code, but for now, don’t worry if your text selection doesn’t match, this is just to quickly learn how it works.
 
 11. Let’s look at an alternative quick way to code. This time before you code, **click on the Codes folder**. This should open up the Codes list next to your transcript.
 
