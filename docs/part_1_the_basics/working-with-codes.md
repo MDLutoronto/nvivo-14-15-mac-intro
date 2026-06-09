@@ -35,7 +35,7 @@ Working with Codes
 
     <img src="{{ '/assets/images/NVivo15_Mac_intro_048.png' | relative_url }}" alt='Red box around the sustainability code with the two codes nested under it.' title='' width='440' height='204' />
 
-7. You can use Sustainability as its own broader code now in coding, or just keep it as a heading in the hierarchy. If you **double click on Sustainability**, you should see an empty window pop up as there are no references coded to that Code right now.
+7. You can use Sustainability as its own broader code now in coding, or just keep it as a heading in the hierarchy. **Double click on Sustainability**. You should see an empty window pop up as there are no references coded to that code right now.
 
     <img src="{{ '/assets/images/NVivo15_Mac_intro_049.png' | relative_url }}" alt='The Sustainability code opened, with no references.' title='' width='2420' height='1032' />
 
@@ -60,8 +60,6 @@ Working with Codes
 
 13. You will see that the references have changed. There is grey text that isn’t coded, but comes directly before or after the coded text to give you more context for what you have coded. This is useful when examining small snippets of coded text. You can apply this Broad context (or explore the other options in the menu) any time you are presented with a list of references.
 
-    Please note that under the **Home** tab within the program, there is the option to select 'broad' under **Spread Coding**. This is *not* the same function. While selecting broad under **Coding Context** will display the context of your code, selecting broad under **Spread Coding** will instead add the surrounding context to your original code.
-
     <img src="{{ '/assets/images/NVIVO_MAC_Codes_13_0.png' | relative_url }}" alt='The Sustainability code opened, with grey text above and below each reference. One example outlined in red.' title='' width='595' height='369' />
 
 14. Close the window for now by clicking on **Close "Sustainability"** in the View drop\-down menu.
@@ -74,13 +72,16 @@ Working with Codes
 
 16. Double click on an interview that has some coded references.
 
-17. At the top of the selected file tab, from the **Coding Stripes drop\-down menu, select All.** Then go back into the **Coding Stripes drop\-down menu** again and **select Automatic Colors**.
+17. At the top of the selected file tab, from the **Coding Stripes drop\-down menu, select All.** Then go back into the **Coding Stripes drop\-down menu** again and **select Automatic Colors**. It will automatically select colours to differentiate the codes. You should see coloured stripes along the right to tell you what parts of the document have been coded and how.
 
-    <img src="{{ '/assets/images/NVivo15_Mac_intro_058.png' | relative_url }}" alt='Under the selected file, Coding stripes and All are selected. ' title='' width='519' height='408' /><img src="{{ '/assets/images/NVivo15_Mac_intro_059.png' | relative_url }}" alt='Automatic Colors option from the Coding Stripes menu is highlighted.' title='' width='687' height='546' />
-
-18. As you scroll through the document, you should see coloured stripes along the right to tell you what parts of the document have been coded and how. *Note that you can customize the colours if you'd like by holding down the Control key and clicking on each code, and then picking your colour of choice in the Color section. After you've set up all your colours, click anywhere on the text of the interview, select the Coding Stripes drop\-down menu, and select Item Colors instead of leaving Automatic Colors selected.*
-
+    <img src="{{ '/assets/images/NVivo15_Mac_intro_058.png' | relative_url }}" alt='Under the selected file, Coding stripes and All are selected. ' title='' width='519' height='408' />
+    <img src="{{ '/assets/images/NVivo15_Mac_intro_059.png' | relative_url }}" alt='Automatic Colors option from the Coding Stripes menu is highlighted.' title='' width='687' height='546' />
     <img src="{{ '/assets/images/NVIVO_MAC_Codes_18.png' | relative_url }}" alt='Red box around the coloured stripes along the right of the transcript text.' title='' width='702' height='462' />
+
+18. Note that you can customize the colours if you'd like by holding down the Control key and clicking on each code, and then picking your colour of choice in the Color section. After you've set up all your colours, click anywhere on the text of the interview, select the Coding Stripes drop\-down menu, and select Item Colors instead of leaving Automatic Colors selected.
+
+    <img src="{{ '/assets/images/NVIVO_MAC_Codes_18b.png' | relative_url }}" alt='Red box around the coloured stripes along the right of the transcript text.' title='' width='702' height='462' />
+    <img src="{{ '/assets/images/NVIVO_MAC_Codes_18c.png' | relative_url }}" alt='Red box around the coloured stripes along the right of the transcript text.' title='' width='702' height='462' />
 
 19. At the top of the selected file tab, from the **Highlight drop\-down menu, select Coding for All Codes or Cases.**
 

@@ -19,11 +19,13 @@ If you have demographics or other important attributes that you want to incorpor
 
 You can manually create case classifications and cases, but often times, it is easier and more common to upload a spreadsheet with all the information for the cases. Let’s try that now.
 
-1. For our project, we have a file called Interviewees.csv. Open it up and take a look. It lists our interviewees and their attributes. Attributes in NVivo work best when they are categorical variables. NVivo would call this a classification sheet. Now close it and go back to NVivo.
+1. For our project, we have a file called Interviewees.csv. Open it up and take a look. It lists our interviewees and their attributes. Numeric attributes in NVivo work best in queries when they are transformed into categorical variables. You can see examples where experience and size of teams are ranges instead of a number. 
 
-    <img src="{{ '/assets/images/nvivo_workshop_mac_070.png' | relative_url }}" alt='Interviewees spreadsheet opened in Microsoft excel' title='' width='600' height='363' />
+NVivo would call this a classification sheet. Now close it and go back to NVivo.
 
-2. Go to the Import menu,and from the **Classification drop\-down menu, select Classification Sheet...** (You can also go to the **Home menu**, and from the **Case Classification drop\-down menu, select Import Classification Sheet)**.
+<img src="{{ '/assets/images/nvivo_workshop_mac_070.png' | relative_url }}" alt='Interviewees spreadsheet opened in Microsoft excel' title='' width='600' height='363' />
+
+2. Go to the **Import menu**,and from the **Classification drop\-down menu, select Classification Sheet...** (You can also go to the Home menu, and from the Case Classification drop\-down menu, select Import Classification Sheet).
 
     <img src="{{ '/assets/images/ScreenshotImportClassificationSheet.png' | relative_url }}" alt='The import menu is highlighted, along with the Classifications submenu and Classification sheet option.' title='' width='1312' height='308' />
 
@@ -43,7 +45,7 @@ You can manually create case classifications and cases, but often times, it is e
 
     <img src="{{ '/assets/images/NVIVO_MAC_Case%20Classification_6.png' | relative_url }}" alt='Import Classification Window with Import highlighted.' title='' width='617' height='456' />
 
-7. **Click on Classification Sheet** at the top of that window to see something that resembles the csv file we imported. Then close it.
+7. **Click on Classification Sheet** at the top of that window to see something that resembles the csv file we imported. If it looks good, then close it.
 
     <img src="{{ '/assets/images/NVIVO_MAC_Case%20Classification_7.png' | relative_url }}" alt='Imported classification sheet opened in NVivo.' title='' width='792' height='363' />
 

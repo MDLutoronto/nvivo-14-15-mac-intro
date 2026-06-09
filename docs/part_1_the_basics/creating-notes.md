@@ -16,7 +16,7 @@ grand_parent: Introduction to NVivo 15 for Mac
 Creating Notes
 --------------
 
-1. Let’s move on to another use of NVivo. You can create different types of notes to capture your thoughts on some text in a file, a file itself, or the project as a whole. For example, if you want to make a note about something that has come up in the text, you would use annotations. **Open up one of the interview files** (if you don’t have one open already), **highlight some text,** **hold down the Control key and click on it,** and **select New Annotation**.
+1. Let’s move on to another use of NVivo. You can create different types of notes to capture your thoughts on some text in a file, a file itself, or the project as a whole. Let's make a note about something that has come up in the text. **Open up one of the interview files** (if you don’t have one open already), **highlight some text,** **hold down the Control key and click on it,** and **select New Annotation**.
 
     <img src="{{ '/assets/images/NVivo15_Mac_intro_063.png' | relative_url }}" alt='Some interview text selected, with an open context menu and a red box around New Annotation.' title='' width='603' height='638' />
 
@@ -40,7 +40,7 @@ Creating Notes
 
     <img src="{{ '/assets/images/NVivo15_Mac_intro_068.png' | relative_url }}" alt='Red box around the linked Memo icon in the interview folder.' title='' width='577' height='283' />
 
-7. To view the memo link, **hold down the Control key and click on the file again, select Memo Link** and then **Open Linked Memo**.    
+7. To view the memo link, **hold down the Control key and click on the file again, select Memo Link** and then **Open Linked Memo**. When you're done looking at the memo, close the tab.   
     <img src="{{ '/assets/images/NVivo15_Mac_intro_069.png' | relative_url }}" alt='Context menu for an interview with the Memo link side pop-up menu open and Open Linked Memo outlined in red.' title='' width='479' height='576' />
 
 8. To see annotations you have created all in one place, from the left menu, **under Notes, click on Annotations**.

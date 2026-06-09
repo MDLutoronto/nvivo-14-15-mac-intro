@@ -43,7 +43,7 @@ If you have already decided upon codes ahead of time (following a deductive appr
 
     <img src="{{ '/assets/images/NVivo15_Mac_intro_025.png' | relative_url }}" alt='Under the maintenance code menu, the general settings are selected' title='' width='1820' height='1148' />
 
-7. Now that we have a couple codes, let’s use them to do some coding. To open up one of our imported files, from the left menu, **go to the Interviews folder under Files and double click on the first interview transcript** to open it in NVivo.
+7. Now that we have a couple codes, let’s use them to do some coding. To open up one of our imported files, from the left menu, **go to the Interviews folder under Files and double click on the interview transcript called "Data Center Interview Transcript dec4_2014 2_02pm"** to open it in NVivo.
 
     <img src="{{ '/assets/images/NVivo15_Mac_intro_026.png' | relative_url }}" alt='Under interviews, the first interview is selected' title='' width='2216' height='946' />
 
