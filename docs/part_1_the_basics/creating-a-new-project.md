@@ -30,7 +30,7 @@ Creating a New Project
 
     <img src="{{ '/assets/images/NVivo15_Mac_intro_003.png' | relative_url }}" alt='NVIVO pop-up selecting NVivo Workshop as the location for the file. ' title='' width='1174' height='1014' />
 
-5. You may also want to **select Autosave project** to have NVivo save your project automatically every 5 minutes. Unlike with the Windows version, this does not affect your ability to Undo a change. Finally **select Create** to create your new project.
+5. You may also want to **select Autosave project** to have NVivo save your project automatically every 5 minutes. Unlike with the Windows version, this does not affect your ability to Undo a change. Finally **select Create Project** to create your new project.
 
     <img src="{{ '/assets/images/NVivo15_Mac_intro_004.png' | relative_url }}" alt='NVivo Pop up with Autosave and Create Project selected' title='' width='1166' height='1008' />
 

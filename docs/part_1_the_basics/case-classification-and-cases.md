@@ -21,7 +21,7 @@ You can manually create case classifications and cases, but often times, it is e
 
 1. For our project, we have a file called Interviewees.csv. Open it up and take a look. It lists our interviewees and their attributes. Numeric attributes in NVivo work best in queries when they are transformed into categorical variables. You can see examples where experience and size of teams are ranges instead of a number. NVivo would call this a classification sheet. Now close it and go back to NVivo.
 
-<img src="{{ '/assets/images/nvivo_workshop_mac_070.png' | relative_url }}" alt='Interviewees spreadsheet opened in Microsoft excel' title='' width='600' height='363' />
+    <img src="{{ '/assets/images/nvivo_workshop_mac_070.png' | relative_url }}" alt='Interviewees spreadsheet opened in Microsoft excel' title='' width='600' height='363' />
 
 2. Go to the **Import menu**,and from the **Classification drop\-down menu, select Classification Sheet...** (You can also go to the Home menu, and from the Case Classification drop\-down menu, select Import Classification Sheet).
 
