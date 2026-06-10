@@ -17,11 +17,15 @@ Word Frequency and Text Queries
 
 1. First, make sure you have saved and closed any previous projects you had open using the **File Menu** from the menu bar at the top.
 
-2. Then from the **File Menu or start screen, select Create Copy of Sample Project** to use a ready\-made project that comes with NVivo. Data in this sample project are drawn from a two\-year research study (2008\- 2009\) undertaken by researchers from the Duke University Nicholas School of the Environment at the Duke Marine Laboratory in Beaufort, N.C. The study documented community perceptions of development and land\-use change on coastal communities in the Down East area of Carteret County, North Carolina, USA.
+<img src="{{ '/assets/images/NVivo15_Mac_intro_pt2_001a.png' | relative_url }}" alt='The NVivo 15 main screen with Create a copy of the sample project highlighted.' title='' width='1576' height='974' />
+
+2. Then from the **Start Screen or File Menu, select Create Copy of Sample Project** to use a ready\-made project that comes with NVivo. Data in this sample project are drawn from a two\-year research study (2008\- 2009\) undertaken by researchers from the Duke University Nicholas School of the Environment at the Duke Marine Laboratory in Beaufort, N.C. The study documented community perceptions of development and land\-use change on coastal communities in the Down East area of Carteret County, North Carolina, USA.
 
     <img src="{{ '/assets/images/NVivo15_Mac_intro_pt2_001.png' | relative_url }}" alt='The NVivo 15 main screen with Create a copy of the sample project highlighted.' title='' width='1576' height='974' />
 
-3. A window will pop\-up asking if you want to rename the project and if you want to adjust where it saves. Let’s keep the name, but make sure it is saving with your other workshop files. **Then click on Save**. If an NVivo Tour window opens up, just close it for now. If an NVivo Tour window opens, close it by clicking **Skip Tour**.
+    <img src="{{ '/assets/images/NVivo15_Mac_intro_pt2_001b.png' | relative_url }}" alt='The NVivo 15 main screen with Create a copy of the sample project highlighted.' title='' width='1576' height='974' />
+
+3. A window will pop\-up asking if you want to rename the project and if you want to adjust where it saves. Let’s keep the name, but make sure it is saving with your other workshop files. **Then click on Save**. If an NVivo Tour window opens, close it.
 
     <img src="{{ '/assets/images/NVivo15_Mac_intro_pt2_002.png' | relative_url }}" alt='Save window with Sample Project written in the Save As field. Save highlighted.' title='' width='369' height='204' /><img src="{{ '/assets/images/NVivo15_Mac_intro_pt2_003.png' | relative_url }}" alt='Skip Tour at the top left of the pop-up window is highlighted in a red box.' title='' width='655' height='447' />
 
@@ -29,7 +33,7 @@ Word Frequency and Text Queries
 
     <img src="{{ '/assets/images/NVivo15_Mac_intro_pt2_004.png' | relative_url }}" alt='Explore menu tab outlined in Red.' title='' width='1496' height='238' />
 
-5. Let’s start with the third option – the Word Frequency query, which helps us to identify frequently occurring terms in content. This is a great query to start with to get a sense of the content or topic of your data, by looking at the most common words used in a particular file or your whole project.**Go to the Explore menu and select Word Frequency.**
+5. Let’s start with the third option – the Word Frequency query, which helps us to identify frequently occurring terms in content. This is a great query to start with to get a sense of the content or topic of your data, by looking at the most common words used in a particular file or your whole project. **Go to the Explore menu and select Word Frequency.**
 
     <img src="{{ '/assets/images/NVivo15_Mac_intro_pt2_005.png' | relative_url }}" alt='In the Explore menu, word Frequency highlighted.' title='' width='1496' height='238' />
 
@@ -69,7 +73,7 @@ Word Frequency and Text Queries
 
     <img src="{{ '/assets/images/NVivo15_Mac_intro_pt2_014.png' | relative_url }}" alt='File menu with Project Properties highlighted. ' title='' width='547' height='700' />
 
-15. Here in the General tab, you can select the Text Content Language. The default is English (US), but you can see other options. This doesn’t affect the interface, but is important for certain queries, such as word frequency queries and affects the stop words list. For example, you could have an English interface for NVivo, but be analyzing interview transcripts that are in French, by selecting French here. **Click on the Stop Words… button** to see the list of stop words in use and select Restore Defaults to reset the list to the default, if you wish. Let’s just **click cancel twice** for now and **go back to the results of our query**.
+15. Here in the General tab, you can select the Text Content Language. The default is English (United States), but you can see other options. This doesn’t affect the interface, but is important for certain queries, such as word frequency queries and affects the stop words list. For example, you could have an English interface for NVivo, but be analyzing interview transcripts that are in French, by selecting French here. **Click on the Stop Words… button** to see the list of stop words in use. You can manually add words separated by spaces to this big list if you want. There is a Restore Defaults button that can be used to reset the list to the default, but for now let’s just **click cancel twice** and **go back to the results of our query**.
 
     <img src="{{ '/assets/images/NVivo15_Mac_intro_pt2_015.png' | relative_url }}" alt='Project Properties window with the General tab open. Red box around the Text content language and Stop Words...' title='' width='1442' height='840' /><img src="{{ '/assets/images/NVivo15_Mac_intro_pt2_016.png' | relative_url }}" alt='Stop Words window. Red box around Ok.' title='' width='580' height='322' />
 
@@ -77,13 +81,14 @@ Word Frequency and Text Queries
 
     <img src="{{ '/assets/images/NVivo15_Mac_intro_pt2_017.png' | relative_url }}" alt='Context menu for the summary table with Export... outlined in red.' title='' width='2112' height='742' />
 
-17. **Browse to the workshop folder, give the file a name or keep the default, change the File Format to Tab Separated Value** (to make it a spreadsheet) and **click on Save**.
+17. **Browse to the workshop folder, give the file a name or keep the default, change the File Format to Spreadsheet (.csv)**, and **click on Save**.
 
-    <img src="{{ '/assets/images/NVivo15_Mac_intro_pt2_018.png' | relative_url }}" alt='Save query window with the Save As field filled in with Word Frequency Query. File Format is highlighted and set to Tab Separated Value. Rex box around Save.' title='' width='537' height='385' />
+    <img src="{{ '/assets/images/NVivo15_Mac_intro_pt2_018.png' | relative_url }}" alt='Save query window with the Save As field filled in with Word Frequency Query. File Format is highlighted and set to Comma Separated Value. Rex box around Save.' title='' width='537' height='385' />
 
-18. If we go back to the query results window, just above the table, you will see two tabs: Summary and Word Cloud. We are in the Summary tab. **Click on Word Cloud**. This shows the more frequent words, where the larger the word is, the more frequently it occurs, which is a common way to display this type of result. (Might take a few seconds to load). *Note that currently there is a bug in the newer versions of NVivo, so you are unable to change the colours, but normally you can click on a Gallery button to select different themes to customize your word cloud.*
+18. If we go back to the query results window, just above the table, you will see two tabs: Summary and Word Cloud. We are in the Summary tab. **Click on Word Cloud**. This shows the more frequent words, where the larger the word is, the more frequently it occurs, which is a common way to display this type of result. (Might take a few seconds to load). You can click on the **Gallery button** to select different themes to customize your word cloud.
 
     <img src="{{ '/assets/images/NVivo15_Mac_intro_pt2_019.png' | relative_url }}" alt='In the query results the Word Cloud tab is selected.' title='' width='2128' height='1314' />
+    <img src="{{ '/assets/images/NVivo15_Mac_intro_pt2_019b.png' | relative_url }}" alt='In the query results the Word Cloud tab is selected.' title='' width='2128' height='1314' />
 
 19. You can also **hold down the Control key and click on the word cloud**, and then **select Export to export it as an image or PDF** to use later in a report.
 
@@ -125,7 +130,7 @@ Word Frequency and Text Queries
 
     <img src="{{ '/assets/images/NVIVO_MAC_Word%20and%20Text_28.png' | relative_url }}" alt='Text Search Query window results with a red box around the Word Tree tab.' title='' width='1954' height='1448' />
 
-29. You can normally click on **family** to toggle between “family” and “families.” \[But there is a bug that sometimes crashes NVivo when toggling, so I would avoid doing this right now.]
+29. You can click on **family** to toggle between “family” and “families.”
 
     <img src="{{ '/assets/images/NVIVO_MAC_Word%20and%20Text_29.png' | relative_url }}" alt='the drop-down menu under family opened and highlighted.' title='' width='699' height='354' />
 
