@@ -17,7 +17,7 @@ Word Frequency and Text Queries
 
 1. First, make sure you have saved and closed any previous projects you had open using the **File Menu** from the menu bar at the top.
 
-<img src="{{ '/assets/images/NVivo15_Mac_intro_pt2_001a.png' | relative_url }}" alt='The NVivo 15 main screen with Create a copy of the sample project highlighted.' title='' width='1576' height='974' />
+    <img src="{{ '/assets/images/NVivo15_Mac_intro_pt2_001a.png' | relative_url }}" alt='The NVivo 15 main screen with Create a copy of the sample project highlighted.' title='' width='1576' height='974' />
 
 2. Then from the **Start Screen or File Menu, select Create Copy of Sample Project** to use a ready\-made project that comes with NVivo. Data in this sample project are drawn from a two\-year research study (2008\- 2009\) undertaken by researchers from the Duke University Nicholas School of the Environment at the Duke Marine Laboratory in Beaufort, N.C. The study documented community perceptions of development and land\-use change on coastal communities in the Down East area of Carteret County, North Carolina, USA.
 
