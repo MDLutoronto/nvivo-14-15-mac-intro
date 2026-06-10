@@ -26,6 +26,10 @@ Export Data
 3. Browse to where your workshop files are, name your file or keep the default, decide if you want it as a document or spreadsheet format, and then **click on OK**.
 
     <img src="{{ '/assets/images/NVIVO_MAC_Export_3.png' | relative_url }}" alt='In the Codebook window, Where is highlighted and set to NVivo Workshop. OK is highlighted.' title='' width='490' height='285' />
+    
+    Here is what the Codebook file looks like:
+
+    <img src="{{ '/assets/images/NVIVO_MAC_Export_3a.png' | relative_url }}" alt='In the Codebook window, Where is highlighted and set to NVivo Workshop. OK is highlighted.' title='' width='490' height='285' />
 
 4. You can also export all the references for a particular set of codes. To do this, first **select your subset of codes**. For example, **select Balance and Community Change** (hold down the Command key to select more than one item).
 
@@ -37,6 +41,10 @@ Export Data
 6. It will ask you where to save the files, so **browse to where your workshop files are**. It will create a document for each code that contains a list of each reference, similar to what you would see if you double clicked on the code. **Open up all the files you have exported to see their contents**, if they don’t open automatically.
 
     <img src="{{ '/assets/images/NVIVO_MAC_Export_6.png' | relative_url }}" alt='In the file menu, Workshop Files highlighted and selected. OK is highlighted.' title='' width='607' height='391' />
+
+    Here is an example of the resulting file for the Balance code:
+
+    <img src="{{ '/assets/images/NVIVO_MAC_Export_6b.png' | relative_url }}" alt='In the file menu, Workshop Files highlighted and selected. OK is highlighted.' title='' width='607' height='391' />
 
 And that's it!
 
