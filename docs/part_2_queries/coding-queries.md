@@ -19,7 +19,7 @@ Coding Queries
 
 2. The next few queries I am going to show you are better to use when you have done some coding, as they can help you gain insight from all your work coding your content. For example, you could use these to find potential connections between codes, or connections between a code and a certain demographic.
 
-3. Let’s start with Coding queries. You can use these to find all content coded at selected codes, a combination of codes, or a combination of codes and attributes. So for example, let’s say you want to see if there is content coded as both “Memorable quotes” and “Real estate development,” and you only want to see references that are from residents of Marshallberg – you can do this with a Coding query. **Go to the Explore menu, and from the Query drop\-down menu, select Coding.**
+3. Let’s start with Coding queries. You can use these to find all content coded at selected codes, a combination of codes, or a combination of codes and attributes. So for example, let’s say you want to see if there is content coded as both “Memorable quotes” and “Real estate development,” and you only want to see references that are from residents of Marshallberg – you can do this with a Coding query. **Go to the Explore menu, and from the Queries drop\-down menu, select Coding.**
 
     <img src="{{ '/assets/images/NVivo15_Mac_intro_pt2_040.png' | relative_url }}" alt='Explore menu, with Queries and Coding highlighted' title='' width='1482' height='396' />
 
@@ -63,7 +63,7 @@ Coding Queries
 
     <img src="{{ '/assets/images/NVIVO_MAC_Coding%20Queries_13.png' | relative_url }}" alt='In the Coding Query Window, a red box around Save Criteria...' title='' width='757' height='223' />
 
-14. Give it the name “Marshallberg Quotes on Real Estate” and click on **Save Criteria**. Then **close the query results tab using the View menu**.
+14. Give it the name “Marshallberg Quotes on Real Estate” and click on **Save Criteria**. Then **close the query results tab**.
 
     <img src="{{ '/assets/images/NVIVO_MAC_Coding%20Queries_14.png' | relative_url }}" alt='Save criteria window with the name field and Save Criteria highlighted. ' title='' width='503' height='269' />
 
@@ -73,7 +73,7 @@ Coding Queries
 
 ### Test Your Understanding 2
 
-Run a Coding query for the project to find interview content only coded as “Infrastructure,” “Policy, management,” OR “Real estate development” where the interviewees are from Harkers Island. How many references did you find?
+Run a Coding query for the project to find **interview content only** coded as **“Infrastructure,” “Policy, management,” OR “Real estate development”** where the interviewees are from **Harkers Island**. How many references did you find?
 
 (Hint: You will have to change an option to say Any instead of All to satisfy the “or” condition, different than in the demonstration.)
 
