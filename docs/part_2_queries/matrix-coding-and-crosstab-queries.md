@@ -23,7 +23,7 @@ Matrix Coding and Crosstab Queries
 
     <img src="{{ '/assets/images/NVivo15_Mac_intro_pt2_055.png' | relative_url }}" alt='In the left menu, under Cases, a red box around the People folder. In the People folder, a red box around the expand button for Interview Participants.' title='' width='767' height='675' />
 
-3. Highlight all of the interviewees by clicking on the first one, holding down the Shift key, and then clicking on the last one. Then drag and drop them on the left side of the matrix query under Rows.
+3. **Highlight all of the interviewees by clicking on the first one, holding down the Shift key, and then clicking on the last one**. Then **drag and drop them on the left side of the matrix query under Rows**.
 
     <img src="{{ '/assets/images/NVIVO_MAC_Matrix%20and%20Crosstab_3.png' | relative_url }}" alt='Under Interview Participants, all cases are selected and outlined in red, with an arrow pointing to the Rows field of the Matrix Coding Query window.' title='' width='766' height='506' />
 
@@ -31,7 +31,7 @@ Matrix Coding and Crosstab Queries
 
     <img src="{{ '/assets/images/NVivo15_Mac_intro_pt2_057.png' | relative_url }}" alt='In the left menu, under Codes, a red box around the Codes folder. In the Codes folder, a red box around the expand button for Attitude.' title='' width='794' height='683' />
 
-5. **Highlight all the attitude child codes** (similar to the cases) and then **drag and drop them on the right side of the matrix query under Columns**.
+5. **Highlight all the attitude child codes** (similar to the cases) and then **drag and drop them on the right side of the matrix query under Columns**. Note: If you find the drag and drop difficult, you can also use the plus signs below the areas for rows and columns to manually select items from a list.
 
     <img src="{{ '/assets/images/NVIVO_MAC_Matrix%20and%20Crosstab_5.png' | relative_url }}" alt='Under Attitude, all child codes are selected and outlined in red, with an arrow pointing to the Columns field of the Matrix Coding Query window.' title='' width='798' height='504' />
 
@@ -79,7 +79,7 @@ Matrix Coding and Crosstab Queries
 
     <img src="{{ '/assets/images/NVIVO_MAC_Matrix%20and%20Crosstab_16.png' | relative_url }}" alt='In the Crosstab Query Results window, a red box around the results table.' title='' width='685' height='293' />
 
-17. In this Results tab, at the top, you’ll see a section called Show Results As. You can change the selection, to alter what numbers are displayed in the grid. In this case, **try selecting Coding Presence**. Often times you might not have a big enough data set to gain meaning from the numerical values for coding references, for example, but you can at least see where there is an intersection at all or not. For example, we see that the codes of “Attitude” and “Sense of Community” aren’t connected to any of the townships. Normally people don’t report these numbers, but use them to gain insight into their project.
+17. In this Results tab, at the top, you’ll see a section called Show Results As. You can change the selection, to alter what numbers are displayed in the grid. In this case, **try selecting Coding Presence**. Often times you might not have a big enough data set or it might not be appropriate to gain meaning from the numerical values for coding references, for example, but you can at least see where there is an intersection at all or not. For example, we see that the codes of “Attitude” and “Sense of Community” aren’t connected to any of the townships. People don’t always report these numbers and matrices, but use them to gain insight into their project.
 
     <img src="{{ '/assets/images/NVIVO_MAC_Matrix%20and%20Crosstab_17.png' | relative_url }}" alt='In the Crosstab Query window, the Results tab is open. Under Show results as Coding presence is highlighted. A red box around the results table.' title='' width='798' height='482' />
 
@@ -89,9 +89,9 @@ Matrix Coding and Crosstab Queries
 
 ### Test Your Understanding 3
 
-Run a Matrix Coding query on social media content only, where the columns are the attitude child codes (positive, negative, etc.) and the rows are the remaining top\-level codes (Balance, Economy, etc). What two codes have the most negative references?
+Run a Matrix Coding query on **social media content only**, where the columns are the **attitude child codes (positive, negative, etc.)** and the rows are the **remaining top\-level codes (Balance, Economy, etc)**. What two codes have the most negative references?
 
-Next run a Crosstab query, where the rows are the top\-level codes (Balance, Economy, etc) and the Person attribute is Education Level. What code was coded the most by coding references for people whose highest level of education completed is undergraduate college?
+Next run a Crosstab query, where the rows are the **top\-level codes (Balance, Economy, etc)** and the **Person** attribute is **Education Level**. What code was coded the most by **coding references** for people whose highest level of education completed is undergraduate college?
 
 Click [here](https://mdlutoronto.github.io/nvivo-14-15-mac-intro/part_2_queries/test-your-understanding-answers/) for the answers.
 
