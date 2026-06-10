@@ -30,6 +30,6 @@ Test Your Understanding 3:
 
 * The Natural Environment code has the most negative references with 33\.
 * The codes coded the most by coding references for people whose highest level of education completed is undergraduate college is Real Estate Development, with 51 references.
-* [Back to the next section.](https://mdlutoronto.github.io/part_2_queries/export-data/)
+* [Back to the next section.](https://mdlutoronto.github.io/nvivo-14-15-mac-intro/part_2_queries/export-data/)
 
 **Technique**: [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tools**: [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo)   
