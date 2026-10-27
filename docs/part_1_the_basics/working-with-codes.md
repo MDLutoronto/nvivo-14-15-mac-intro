@@ -66,6 +66,23 @@ Working with Codes
 
     <img src="{{ '/assets/images/NVivo15_Mac_intro_056.png' | relative_url }}" alt='Within the view tab from the mac menu bar, Close Sustainability is selected. ' title='' width='464' height='555' />
 
+14. Instead of grouping child codes under a parent code, you may also want to merge two similar codes together. Let’s try that with our codes called Upgrades and Maintenance. Let's keep Maintenance and add all the coded segments from Upgrades to it. To do that, **right click on the Upgrades code and select Copy**. 
+
+    <img src="{{ '/assets/images/NVivo15_Mac_intro_057a.png' | relative_url }}" alt='Right click context menu showing for Upgrades with copy selected.' title='' width='1232' height='702' /> 
+
+14. Then **right click on the Maintenance code and select Merge Into Selected Code**. 
+
+    <img src="{{ '/assets/images/NVivo15_Mac_intro_057b.png' | relative_url }}" alt='Right click context menu showing for Maintenance with Merge into Selected Code selected.' title='' width='1232' height='702' /> 
+
+14. A pop-up window will appear. Keep the defaults and **click on Merge**. Now you can see that Upgrades is gone, and its coded segments have been added to Maintenance.
+
+    <img src="{{ '/assets/images/NVivo15_Mac_intro_057c.png' | relative_url }}" alt='Pop-up window with merge options. Merge button highlighted.' title='' width='1232' height='702' />
+    <img src="{{ '/assets/images/NVivo15_Mac_intro_057d.png' | relative_url }}" alt='Code list showing the new number of references for Maintenance.' title='' width='1232' height='702' />
+
+14. To finish cleaning up, you need to then **right click on Upgrades and select delete**. You should see that the Upgrades code is no longer in the list.   
+    <img src="{{ '/assets/images/NVivo15_Mac_intro_057e.png' | relative_url }}" alt='Code list showing the new number of references for Maintenance.' title='' width='1232' height='702' />
+    <img src="{{ '/assets/images/NVivo15_Mac_intro_057f.png' | relative_url }}" alt='Code list showing the new number of references for Maintenance.' title='' width='1232' height='702' />
+
 15. Another way to get a better idea of how your files are coded is to use coding stripes and highlighting. First, **go to your interviews folder**. You can see how many codes have been applied to the content and how many references in the document have been coded.
 
     <img src="{{ '/assets/images/NVivo15_Mac_intro_057.png' | relative_url }}" alt='In the interviews folder, the codes and references columns are outlined.' title='' width='1582' height='358' />
@@ -92,5 +109,7 @@ Working with Codes
     <img src="{{ '/assets/images/NVIVO_MAC_Codes_20.png' | relative_url }}" alt='The coded transcript text is highlighted in yellow and outlined with a red box.' title='' width='735' height='345' />
 
     Note: Both Highlight and Coding Stripes can also be found in the View menu in the top menu bar.
+
+To follow along with the workshop, you may want to also view the instructions for the Text Search query before continuing (starting at step 21 of the [Word Frequencies and Text Queries section](https://mdlutoronto.github.io/nvivo-14-15-mac-intro/part_2_queries/word-frequency-and-text-queries/)), but use the search terms stated in the workshop instead of the tutorial example, which uses a different example.
 
 **Technique**: [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tools**: [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo) 
